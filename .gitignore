@@ -1,0 +1,7 @@
+.DS_Store
+*.dmg
+*.zip
+work/*.json
+work/*.app/
+build/
+release/
